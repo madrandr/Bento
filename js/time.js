@@ -3,16 +3,16 @@ function displayClock() {
     const monthNames = [
         'Jan',
         'Feb',
-        'Mar',
+        'Mär',
         'Apr',
-        'May',
+        'Mai',
         'Jun',
         'Jul',
         'Aug',
         'Sep',
-        'Oct',
+        'Okt',
         'Nov',
-        'Dec',
+        'Dez',
     ];
 
     // Set to true to use a 12 hour date format
